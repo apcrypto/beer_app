@@ -1,0 +1,44 @@
+{
+  "beers": [
+    {
+      "id": 4,
+      "name": "Magic Rock Bourbon Barrel Bearded Lady Dessert",
+      "brewery": "Magic Rock Brewing",
+      "region": "Huddersfield, England",
+      "style": "Stout - Imperial",
+      "review": "Appearance is black, with a 2-finger mocha brown head. Aroma- whisky, vanilla, cinnamon, hint of nutmeg, dark chocolate, leathery malt, coffee, more vanilla, tannins, stewed dark fruit undertones. Taste is chocolate milk, vanilla, coffee bitterness, whisky fudge, cinnamon, raisin hints, ashy roast malt, treacle, more chocolate and more vanilla.",
+      "image": "https://res.cloudinary.com/ratebeer/image/upload/d_beer_img_default.png,f_auto/beer_328908",
+      "likes": 198
+    },
+    {
+      "id": 6,
+      "name": "Buxton Single Barrel Rain Shadow (Bourbon)",
+      "brewery": "Buxton",
+      "region": "Buxton, England",
+      "style": "Stout - Imperial",
+      "review": "0.33 l bottle from 'Etre Gourmet', bottled in September 2016. Pitch black with a thin, frothy, stable, brown head. Sweetish-malty, gently roasty aroma of dark chocolate, praline, mocca, bourbon and vanilla. Medium sweet, malty, moderately bitter, quite roasty taste of dark chocolate, praline, mocca, toasted nuts, massive bourbon and some vanilla.",
+      "image": "https://res.cloudinary.com/ratebeer/image/upload/d_beer_img_default.png,f_auto/beer_417916",
+      "likes": 0
+    },
+    {
+      "name": "Siren Maiden",
+      "brewery": "Siren",
+      "style": "Barley Wine",
+      "image": "https://res.cloudinary.com/ratebeer/image/upload/d_beer_img_default.png,f_auto/beer_602415",
+      "review": "Bottle. Clear dark red colour, small to average tan head. Aroma of caramel, toffee, dried fruits, raisins, vanilla, light vinous, with notes of bourbon, molasses, rum, coconut. Taste is medium to heavy sweet and light bitter, of caramel, toffee, dried fruits, raisins, vanilla, bourbon, with notes of molasses, coconut and honey.",
+      "likes": 0,
+      "id": 7,
+      "region": "England"
+    },
+    {
+      "name": "Buxton Rain Shadow 11.8% ABV",
+      "brewery": "Buxton",
+      "style": "Stout - Imperial",
+      "image": "https://res.cloudinary.com/ratebeer/image/upload/d_beer_img_default.png,f_auto/beer_292078",
+      "review": "Bottle @Erik, from Systembolaget.\nBlack with a low, tan head. Aroma is whisky and chocolate. Taste the same. Whisky not overdone in any way. Just a nice addition. Full sweet, and perhaps a Little thin finish.\n",
+      "likes": 4,
+      "id": 8,
+      "region": "Buxton, England"
+    }
+  ]
+}

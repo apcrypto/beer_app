@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Beer Story</title>
+    <script defer src="src/index.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <!-- <script defer type="text/javascript" src="src/index.js"></script> -->
+
+  </head>
+  <body>
+
+    <div id='beer-header'>
+      <h1 class='beer-title'>Beer Story</h1>
+    </div>
+    <h3 style='text-align:center'>Add New / Edit Beer</h3>
+    <div style='text-align:center' id="form">
+      <form id="new-beer-form">
+        <input id="nameInput" type="text" name="name" placeholder="Name"/>
+        <br/>
+        <input id="breweryInput" type="text" name="brewery" placeholder="Brewery"/>
+        <br/>
+        <input id="regionInput" type="text" name="region" placeholder="Region"/>
+        <br/>
+        <input id="styleInput" type="text" name="style" placeholder="Style"/>
+        <br/>
+        <input id="imgInput" type="text" name="img" placeholder="Img url"/>
+        <br/><p>
+        <textarea rows="10" cols="30" id="reviewInput" type="textarea" name="review" placeholder="Review"/></textarea>
+        <br/>
+        <input id="submit" type="submit" value="Submit"/>
+        <input id="cancel" type="submit" value="Cancel edit"/>
+      </form>
+
+    </div>
+
+
+
+    <div style='text-align:center' id="beer-collection">
+
+    </div>
+
+  </body>
+</html>
